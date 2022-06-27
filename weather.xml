@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entries>
+    <entry>
+        <date>2022-06-26 22:58</date>
+        <temp>44.2</temp>
+        <wind_direction>E</wind_direction>
+        <last_updated>2022-06-26 20:45</last_updated>
+        <lat>25.4</lat>
+        <long>2.4</long>
+        <county>Algeria</county>
+        <region>Tamanghasset</region>
+    </entry>
+    <entry>
+        <date>2022-06-26 23:01</date>
+        <temp>41.6</temp>
+        <wind_direction>ENE</wind_direction>
+        <last_updated>2022-06-26 20:00</last_updated>
+        <lat>27.4</lat>
+        <long>2.4</long>
+        <county>Algeria</county>
+        <region>El Oued</region>
+    </entry>
+    <entry>
+        <date>2022-06-26 23:01</date>
+        <temp>44.2</temp>
+        <wind_direction>E</wind_direction>
+        <last_updated>2022-06-26 20:45</last_updated>
+        <lat>27.4</lat>
+        <long>2.4</long>
+        <county>Algeria</county>
+        <region>El Oued</region>
+    </entry>
+</entries>

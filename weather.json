@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2022-06-26 23:01",
+    "temp": 41.6,
+    "wind_direction": "ENE",
+    "last_updated": "2022-06-26 20:00",
+    "lat": 27.4,
+    "long": 2.4,
+    "county": "Algeria",
+    "region": "El Oued"
+  },
+  {
+    "date": "2022-06-26 23:01",
+    "temp": 41.6,
+    "wind_direction": "ENE",
+    "last_updated": "2022-06-26 20:00",
+    "lat": 27.4,
+    "long": 2.4,
+    "county": "Algeria",
+    "region": "El Oued"
+  },
+  {
+    "date": "2022-06-26 23:03",
+    "temp": 41.6,
+    "wind_direction": "ENE",
+    "last_updated": "2022-06-26 20:00",
+    "lat": 27.4,
+    "long": 2.4,
+    "county": "Algeria",
+    "region": "El Oued"
+  },
+  {
+    "date": "2022-06-26 23:04",
+    "temp": 36.8,
+    "wind_direction": "ESE",
+    "last_updated": "2022-06-26 14:00",
+    "lat": 27.44,
+    "long": -100.47,
+    "county": "Mexico",
+    "region": "Coahuila"
+  }
+]
